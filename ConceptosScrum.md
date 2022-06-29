@@ -260,3 +260,81 @@ Hay muchas variantes de este formato. El ScrumMaster puede facilitar esta reuni�
 
 Luego de la lluvia de ideas inicial, los equipos suelen votar de forma específica por los items que creen que se deberían considerar para el sprint que está por iniciar. Al final del sprint, la siguiente retrospectiva suele iniciar consultando la lista de items seleccionados en la retrospectiva anterior.
 
+## Metodologías de trabajo
+
+Metodologías Ágiles
+
+Podemos conceptualizar a las metodologías ágiles como un conjunto de tareas y de procedimientos dirigidos a la gestión de proyectos. Métodos de desarrollos en que las necesidades y soluciones evolucionan con el paso del tiempo, con trabajo en equipo de grupos multidisciplinarios que se caracterizan por tener un desarrollo flexible, autonomía, planificación y gran capacidad comunicativa.
+
+Las opciones ágiles más destacadas: Scrum, XP o programación extrema, Kanban, Lean Startup. Decimos que son ágiles porque cumplen con el Manifiesto Ágile, los principios mencionados en cuatro valores fundamentales: Individuos e interacciones sobre procesos y herramientas, Software funcionando sobre documentación extensiva, Colaboración con el cliente sobre negociación contractual, y Respuesta ante el cambio sobre seguir un plan.
+
+Los equipos ágiles realizan sesiones diarias en las que cada miembro tiene que explicar tres cosas: qué tareas ha completado, cuáles va a hacer y, si los hay, señalar los impedimentos que no le han permitido avanzar. Estas reuniones llamadas ‘dailys’ sirven para que todos los integrantes del equipo sepan en qué punto de trabajo está cada uno y sean conscientes de cómo pueden colaborar para que el proyecto siga avanzando.
+
+Las metodologías ágiles comparten ciertas características, buscan la interacción de los miembros del grupo de trabajo, siempre con la meta de satisfacer los requisitos del cliente. Estas no se limitan tan sólo a desarrollos de software, con ellas se pueden gestionar cualquier tipo de proyectos. Es recomendable que las empresas apliquen estos métodos para eliminar el desperdicio que generan los esfuerzos sin planificación, las reuniones que consumen tiempo y no generan productividad ante alguna iniciativa, entre otros aspectos.
+
+Metodología Design Thinking
+
+El design thinking es una metodología para generar ideas innovadoras que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios. Se presenta como una metodología para desarrollar la innovación centrada en las personas, ofreciendo una lente a través de la cual se pueden observar los retos, detectar necesidades y, finalmente, solucionarlas. Se trata de dar un enfoque que se sirve de la sensibilidad del diseñador y su método de resolución de problemas. El objetivo: satisfacer las necesidades de las personas de una forma que sea tecnológicamente factible y comercialmente viable.
+
+Fases de la metodología:
+
+Fase 1: Tener empatía. Investigar las necesidades de tus usuarios. Se trata de entender empáticamente el problema que está tratando de resolver.
+Fase 2: Definir. Identificar las necesidades y los problemas de sus usuarios. Es hora de poner sobre la mesa la información recopilada durante la primera etapa.
+Fase 3: Idear. Generar cuantas ideas sea posible. Buscar formas alternativas de ver el problema e identificar soluciones innovadoras para el planteamiento del problema.
+Fase 4: Prototipar. Construir soluciones. Se identifica la mejor solución para cada problema encontrado. El equipo tiene que construir versiones económicas y muy primitivas de lo que sería el producto final.
+Fase 5: Probar. Los evaluadores se encargan de probar rigurosamente los prototipos. Aunque esta es la fase final, la metodología del Design Thinking se basa en un modelo de trabajo iterativo. A raíz de los resultados obtenidos, los equipos a menudo utilizan este como punto de partida. Por lo tanto, es posible volver a las etapas anteriores para realizar más iteraciones, alteraciones y refinamientos.
+Características del Design Thinking:
+
+La generación de empatía. Hay que entender los problemas, necesidades y deseos de los usuarios implicados en la solución que estamos buscando.
+El trabajo en equipo.
+La generación de prototipos.
+Trabajo creativo e innovador
+Metodología Lean Startup
+
+Lean Startup es una metodología que posibilita desarrollar negocios evitando desperdiciar tiempo, recursos y esfuerzos inútiles. Propone como paso previo a la creación de una empresa, lanzar una Startup, un experimento, que permita al emprendedor buscar un modelo de negocio rentable antes de crear una empresa. En la contabilidad de la metodología Lean Startup el principal beneficio a conseguir es el aprendizaje validado. Un aprendizaje empírico que parte de unas hipótesis que se validan a través de un producto con las características mínimas para facilitar al emprendedor los datos necesarios que permitan descubrir el modelo de negocio viable y dar el salto a la empresa, minimizando el riesgo de fracaso.
+
+La razón de esta metodología es aprender en poco tiempo, invirtiendo los mínimos recursos. Lean Startup es una metodología dirigido a la puesta en marcha de ideas
+innovadoras, donde comienza creando una Startup. El objetivo de las Startup es averiguar qué debe producirse, aquello que los consumidores quieren y por lo que pagarán, tan rápidamente como sea posible. La Startup es un experimento en el que la pregunta no es ¿puede crearse este producto? sino ¿debería crearse este producto?
+
+El circuito crear-medir-aprender es el núcleo central de la metodología Lean Startup. Una Startup crea productos, mide resultados y aprende de ellos. En otras palabras, es un proceso iterativo de transformación de ideas en productos, medición de la reacción y comportamiento de los clientes frente a los productos y el aprendizaje o bien porque se persevere o bien porque se pivote. Este proceso se repite de forma continuada.
+
+El objetivo principal de aplicar este metodología es obtener un aprendizaje validado, saber qué elementos de la estrategia funcionan y conocer qué es lo que quiere el consumidor. Este aprendizaje permitirá medir el progreso de la Startup y descubrir si el modelo de negocio que se busca es viable, rentable y escalable.
+Se inicia con la concepción de un producto o servicio, de forma experimental, en el que se mide su encaje en el mercado y la aceptación por parte de los clientes más interesados; de esa realimentación, se obtiene un aprendizaje que permite seguir desarrollando dicho producto o servicio de una forma iterativa, ya sea persistiendo en el incremento de las funcionalidades del servicio o producto, ya sea estableciendo una serie de cambios o pivotes que permitan su viabilidad, tras lo cual se logra un modelo de negocio que funcione, sin desperdiciar recursos.
+La metodología se ha desglosado siguiendo una secuencia recomendable a la hora de poner en marcha un negocio:
+
+Validación de hipótesis: validar las suposiciones de las que se parte, ya que no dejan de ser asunciones las cuales solo se deberían confirmar contrastadas con el mercado y el cliente.
+Creación de un producto mínimo viable: crear un producto con unas características mínimas que aporte un valor al cliente y que permita obtener la mayor información posible.
+Métricas: establecer elementos cuantificables que permitan medir el rendimiento esperado para poder tomar las decisiones oportunas.
+Pivotar o perseverar: el aprendizaje obtenido, a través de iteraciones, permitirá seguir incrementando lo que funciona, perseverar o implementar los cambios que se infieren de los datos obtenidos, pivotar.
+Metodología de Programación extrema (XP)
+
+Es una metodología basada en un conjunto de reglas y buenas prácticas para el desarrollo de software en ambientes muy cambiantes con requisitos imprecisos, por ende está enfocada en la retroalimentación continua entre el equipo de desarrollo y el cliente. Es por ello que iniciando el proyecto se deben definir todos los requisitos, para luego invertir el esfuerzo en manejar los cambios que se presenten y así minimizar las posibilidades de error. XP tiene como base la simplicidad y como objetivo la satisfacción del cliente.
+
+Caracteristicas de XP:
+
+Desarrollo iterativo e incremental.
+Programación en parejas.
+Pruebas unitarias continuas.
+Corrección periódica de errores.
+Integración del equipo de programación con el cliente.
+Simplicidad, propiedad del código compartida y refactorización del código.
+La programación extrema optimiza los tiempos y se adapta al desarrollo de sistemas grandes y pequeños sin mayor documentación, el código es claro y simple, así mismo complementa los conocimientos entre los miembros del equipo, gracias a la programación en parejas.
+
+Metodología Kanban
+
+Proveniente de una palabra japonesa cuyo significado es “Tarjeta Visual” es un marco de trabajo que requiere una comunicación en tiempo real sobre la capacidad del equipo, utilizado para controlar el avance de trabajo en una línea de producción, en la cual se clasifican las tareas en sub estatus, esto con la intención de determinar los niveles de productividad en cada fase del proyecto.
+Para el desarrollo de software, gracias a su sencillez, simplifica la planificación y la asignación de responsabilidades, en un tablero se representan los procesos del flujo de trabajo, cómo mínimo deben existir tres columnas: Pendiente, En progreso, y Terminado. La cantidad de tarjetas en estatus pendiente forma parte de lo solicitado por el cliente, aquellas colocadas en progreso dependerán de la capacidad del equipo de trabajo. Las tarjetas Kanban, se deben desplazar por cada una de las diversas etapas de su trabajo hasta su finalización.
+
+Ventajas de esta metodología:
+
+Planificación de tareas.
+Tiempos de ciclos reducidos.
+Rendimiento del equipo de trabajo.
+Métricas visuales.
+Menos cuellos de botella.
+Entrega continua.
+Más información:
+
+Video informativo https://www.youtube.com/watch?v=YJfRbrBKAJw&ab_channel=IEBSDigitalSchool
+Archivo adjunto
+[Lean Startup.pdf](https://github.com/matiasmassuh/JASPER34DW/files/9012670/Lean.Startup.pdf)
