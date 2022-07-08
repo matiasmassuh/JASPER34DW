@@ -338,3 +338,17 @@ Más información:
 Video informativo https://www.youtube.com/watch?v=YJfRbrBKAJw&ab_channel=IEBSDigitalSchool
 Archivo adjunto
 [Lean Startup.pdf](https://github.com/matiasmassuh/JASPER34DW/files/9012670/Lean.Startup.pdf)
+
+Stakeholders: En el mundo de los negocios, los stakeholders son aquellos individuos o grupos que tienen interés e impacto en una organización y en los resultados de sus acciones. Algunos de los ejemplos: Los empleados, los accionistas, los clientes, los proveedores, los gobiernos y las comunidades. Stakeholders (grupos de interés) son aquellos grupos o individuos que pueden influir sobre la consecución de los objetivos de una organización o verse afectados por ella
+La clasificación entre stakeholders internos y externos se basa en la relación que estos tienen con la empresa, es decir, si forman parte de ella o son terceras partes interesadas. Por lo tanto, los stakeholders internos son los propietarios, los empleados, la junta directiva, los accionistas o la gerencia
+Por lo general, se habla de tres grupos de interés internos con diferentes objetivos y motivaciones: propietarios/accionistas, directivos y empleados. Por el contrario, los stakeholders externos abarcan los grupos de interés y las partes interesadas que no forman parte de la empresa
+Necesitan garantizar que están satisfechos con lo que se está haciendo y que siguen simpatizando con la compañía. En caso de no ser así, podrían causar perjuicios de diferentes tipos, como económico o comunicativo.
+La importancia de los stakeholders
+
+Necesitan garantizar que están satisfechos con lo que se está haciendo y que siguen simpatizando con la compañía. En caso de no ser así, podrían causar perjuicios de diferentes tipos, como económico o comunicativo.
+Algunos beneficios que aportan:
+•	Mejorar en los Productos y Procesos.
+•	Conducir a un Desarrollo Social más Equitativo y Sostenible.
+•	Mejorar la Gestión del Riesgo y de la Reputación.
+•	Producir Soluciones más Integrales a los problemas.
+•	Atraer del Talento.
